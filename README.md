@@ -12,3 +12,5 @@ Does accumulated match load reduce performance in the final 15 minutes of profes
 - Intervention (Exposure): Match load — minutes played in the last 7–14 days, rest days, fixture congestion.
 
 - Measurement (Outcome): Performance decline proxy — shots and/or xG in the last 15 minutes compared to earlier periods.
+
+---
